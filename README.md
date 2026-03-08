@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### ✨ I'm Adriana | Systems Engineering & Geoinformatics Student
+### ✨ I'm Ana | Systems Engineering & Geoinformatics Student
 💻 **Junior Developer** passionate about the intersection of Hardware, Software, and Geography.
 
 - 🛠️ **Tech Stack:** C, C#, Python & GIS (ArcGIS/QGIS)
